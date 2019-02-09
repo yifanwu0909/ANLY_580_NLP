@@ -1,0 +1,6 @@
+Generator expressions provide an additional shortcut to build generators out of expressions similar to that of list comprehensions.
+
+In fact, we can turn a list comprehension into a generator expression by replacing the square brackets ("[ ]") with parentheses. Alternately, we can think of list comprehensions as generator expressions wrapped in a list constructor.
+
+Consider the following example:
+
